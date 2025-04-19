@@ -111,6 +111,6 @@ Visit [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) to explore the in
 ## 📘 Notes
 
 - This monolithic version provides a quick development and deployment experience but may have limitations in scalability and maintainability for large systems.
-- For a scalable, production-ready version, check out the [Microservices Architecture](../social_media_platform) version.
+- For a scalable, production-ready version, check out the [Microservices Architecture](https://github.com/sangeetanandanvishal04/social-media-microservices.git) version.
 
 ---
