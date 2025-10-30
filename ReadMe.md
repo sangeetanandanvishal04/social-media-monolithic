@@ -114,3 +114,9 @@ Visit [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) to explore the in
 - For a scalable, production-ready version, check out the [Microservices Architecture](https://github.com/sangeetanandanvishal04/social-media-microservices.git) version.
 
 ---
+
+# 🧱 Frontend of Social Media Backend build using HTML, CSS and JavaScript
+
+## 📌 How to run
+1. Open WebUI folder in separate place in a new window of your editor (most probably VS Code).
+2. After running fastapi server, go live with index.html file.
